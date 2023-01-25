@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+body {
+    margin: 0;
+}
+
+.container {
+    height: 35em;
+    background-color: rgb(34, 30, 30);
+    width: 35em;
+    left: 7%;
+    margin-top: 1em;
+    position: fixed;
+}
+
+.header {
+    color: white;
+    margin: 1em 1em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    text-align: left;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+}
